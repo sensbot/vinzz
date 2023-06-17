@@ -2,23 +2,23 @@
 **/
 
 
-global.owner = ['6281395861695', '59894808483']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
+global.owner = ['6285964224017', '59894808483']  
+global.mods = ['6285964224017'] 
+global.prems = ['6285964224017']
+global.nameowner = 'Vinzz'
+global.numberowner = '6285964224017' 
 global.mail = 'support@tioprm.my.id' 
 global.dana = '6281395861695'
 global.pulsa = '6281395861695'
 global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
+global.namebot = 'VinzzzBOT'
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
+global.web = 'github.com/sensbot'
 global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.wm = '© Vinzz'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
+global.wm2 = '⫹⫺ Vinzz'
+global.wm3 = '© Vinzz'
 global.wm4 = '© BotWa'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -26,7 +26,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.author = 'Vinzz BOT'
 global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
 
 global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
